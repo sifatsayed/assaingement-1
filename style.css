@@ -88,5 +88,22 @@ section{
 }
 
 footer{
+    margin-top: -100px;
     text-align: center;
+}
+.photoFrame{
+    height:100%;
+    width:100%;
+    position: relative;
+}
+.photoFrame .photo img{
+    width:100%;
+}
+.photoDetail{
+    position:absolute;
+    height:100%;
+    width:100%;  
+    top:0;
+    color: #fff;
+    margin-left: 20px;
 }
