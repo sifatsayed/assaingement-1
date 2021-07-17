@@ -36,15 +36,6 @@ section{
     text-align:center;
     padding-top:10px;
 }
-/* .facilities-col{
-    flex-basis: 31%;
-    border-radius: 10px;
-    margin-bottom:10px;
-    text-align:center;
-
-} */
-
-
 .row{
     display:grid;
     grid-template-columns: repeat(3, 1fr);
